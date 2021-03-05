@@ -24,13 +24,13 @@
 
 仿照网上一款宠物喂食器制作喂食器结构。
 
-<img src="C:\Users\wzzch\AppData\Roaming\Typora\typora-user-images\image-20210305224036338.png" alt="image-20210305224036338" style="zoom:50%;" />
+<img src="D:\tuya_pet_feeder\image-20210305224036338.png" alt="image-20210305224036338" style="zoom:50%;" />
 
-<img src="C:\Users\wzzch\AppData\Roaming\Typora\typora-user-images\image-20210305224240373.png" alt="image-20210305224240373" style="zoom:50%;" />
+<img src="D:\tuya_pet_feeder\image-20210305224240373.png" alt="image-20210305224240373" style="zoom:50%;" />
 
 也可以做成这个样子
 
-<img src="C:\Users\wzzch\AppData\Roaming\Typora\typora-user-images\image-20210305225431987.png" alt="image-20210305225431987" style="zoom:67%;" /><img src="C:\Users\wzzch\AppData\Roaming\Typora\typora-user-images\image-20210305225502364.png" alt="image-20210305225502364" style="zoom: 67%;" />
+<img src="D:\tuya_pet_feeder\image-20210305225431987.png" alt="image-20210305225431987" style="zoom:67%;" /><img src="D:\tuya_pet_feeder\image-20210305225502364.png" alt="image-20210305225502364" style="zoom: 67%;" />
 
 ## 三、开发计划
 
