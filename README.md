@@ -24,9 +24,7 @@
 
 仿照网上一款宠物喂食器制作喂食器结构。
 
-<img src="https://github.com/witsoft001/pet_feeder/blob/main/image-20210305224036338.png" alt="image-20210305224036338" style="zoom:50%;" />
-
-<img src="https://github.com/witsoft001/pet_feeder/blob/main/image-20210305224240373.png" alt="image-20210305224240373" style="zoom:50%;" />
+<img src="https://github.com/witsoft001/pet_feeder/blob/main/image-20210305224036338.png" alt="image-20210305224036338" style="zoom:30%;" /><img src="https://github.com/witsoft001/pet_feeder/blob/main/image-20210305224240373.png" alt="image-20210305224240373" style="zoom:30%;" />
 
 也可以做成这个样子
 
