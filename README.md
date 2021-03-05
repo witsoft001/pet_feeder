@@ -26,11 +26,11 @@
 
 <img src="https://github.com/witsoft001/pet_feeder/blob/main/image-20210305224036338.png" alt="image-20210305224036338" style="zoom:50%;" />
 
-<img src="https://github.com/witsoft001/pet_feeder/blob/main/image-20210305224036338.png" alt="image-20210305224240373" style="zoom:50%;" />
+<img src="https://github.com/witsoft001/pet_feeder/blob/main/image-20210305224240373.png" alt="image-20210305224240373" style="zoom:50%;" />
 
 也可以做成这个样子
 
-<img src="https://github.com/witsoft001/pet_feeder/blob/main/image-20210305224036338.png" alt="image-20210305225431987" style="zoom:67%;" /><img src="https://github.com/witsoft001/pet_feeder/blob/main/image-20210305224036338.png" alt="image-20210305225502364" style="zoom: 67%;" />
+<img src="https://github.com/witsoft001/pet_feeder/blob/main/image-20210305225431987.png" alt="image-20210305225431987" style="zoom:67%;" /><img src="https://github.com/witsoft001/pet_feeder/blob/main/image-20210305225502364.png" alt="image-20210305225502364" style="zoom: 67%;" />
 
 ## 三、开发计划
 
